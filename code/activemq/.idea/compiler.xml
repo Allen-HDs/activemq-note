@@ -7,10 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="activemq" />
+        <module name="boot_mq_consumer" />
+        <module name="boot_mq_produce" />
+        <module name="boot_mq_topic_consumer" />
+        <module name="boot_mq_topic_produce" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="activemq" target="1.8" />
+      <module name="boot_mq_consumer" target="1.8" />
+      <module name="boot_mq_produce" target="1.8" />
+      <module name="boot_mq_topic_consumer" target="1.8" />
+      <module name="boot_mq_topic_produce" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

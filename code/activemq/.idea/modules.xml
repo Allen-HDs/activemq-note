@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/activemq.iml" filepath="$PROJECT_DIR$/activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_consumer/boot_mq_consumer.iml" filepath="$PROJECT_DIR$/boot_mq_consumer/boot_mq_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_produce/boot_mq_produce.iml" filepath="$PROJECT_DIR$/boot_mq_produce/boot_mq_produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_topic_consumer/boot_mq_topic_consumer.iml" filepath="$PROJECT_DIR$/boot_mq_topic_consumer/boot_mq_topic_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mq_topic_produce/boot_mq_topic_produce.iml" filepath="$PROJECT_DIR$/boot_mq_topic_produce/boot_mq_topic_produce.iml" />
     </modules>
   </component>
 </project>
